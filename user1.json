@@ -1,0 +1,14 @@
+{
+  "CN": "alice",
+  "key": {
+    "algo": "rsa",
+    "size": 4096
+  },
+  "names": [
+    {
+      "C": "UK",
+      "L": "Leeds",
+      "O": "Example"
+    }
+  ]
+}

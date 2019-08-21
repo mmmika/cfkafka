@@ -1,0 +1,20 @@
+{
+  "CN": "broker-2",
+  "hosts": [
+    "broker-2",
+    "localhost",
+    "127.0.0.1",
+    "kafka-2"
+  ],
+  "key": {
+    "algo": "rsa",
+    "size": 4096
+  },
+  "names": [
+    {
+      "C": "UK",
+      "L": "Leeds",
+      "O": "Example"
+    }
+  ]
+}
